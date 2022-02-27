@@ -1,0 +1,319 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Beware the beare the strange, but pleasing history of Balbulo and Rosina. Who having appointed a mid-night meeting ere the consummation of their intended marriage, were extreamly disturbed by the saucy intrusion of a licquorish beare. Who not onely frustrated their solace, sindg'd his own hyde, and put Rosina into a cold sweat, but procured the destruction of a most enabling posset. Full of pleasant mirth and varietie.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81751</idno>
+            <idno type="STC">Wing D2190</idno>
+            <idno type="STC">Thomason E1370_3</idno>
+            <idno type="STC">ESTC R209327</idno>
+            <idno type="EEBO-CITATION">99868210</idno>
+            <idno type="PROQUEST">99868210</idno>
+            <idno type="VID">169863</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81751)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169863)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 179:E1370[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Beware the beare the strange, but pleasing history of Balbulo and Rosina. Who having appointed a mid-night meeting ere the consummation of their intended marriage, were extreamly disturbed by the saucy intrusion of a licquorish beare. Who not onely frustrated their solace, sindg'd his own hyde, and put Rosina into a cold sweat, but procured the destruction of a most enabling posset. Full of pleasant mirth and varietie.</title>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edward Crowch,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "July 9th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169863:1" rendition="simple:additions"/>
+            <p>
+               <hi>Beware the Beare.</hi> THE STRANGE, BUT PLEASING HISTORY OF <hi>Balbulo</hi> and <hi>Roſina.</hi>
+            </p>
+            <p>Who having appointed a Mid-night meeting ere the conſummation of their in<g ref="char:EOLhyphen"/>tended Marriage, were extreamly di<g ref="char:EOLhyphen"/>ſturbed by the ſaucy intruſion of a Licquoriſh BEARE.</p>
+            <p>Who not onely fruſtrated their Solace, Sindg'd his own Hyde, and put ROSINA into a Cold Sweat, but procured the deſtruction of a moſt enabling <hi>POSSET.</hi>
+            </p>
+            <p>
+               <hi>Full of pleaſant Mirth and Varietie.</hi>
+            </p>
+            <p>
+               <hi>LONDON.</hi> Printed for EDWARD CROWCH, 1650.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:169863:2"/>
+            <lg>
+               <head>THE ARGUMENT.</head>
+               <l>Balbulo <hi>wounded by Loves dart,</hi>
+               </l>
+               <l>
+                  <hi>Wooes, and wins her, that rules his heart;</hi>
+               </l>
+               <l>
+                  <hi>Appoints the day his Wench to Wed,</hi>
+               </l>
+               <l>
+                  <hi>But firſt deſires a proof in Bed:</hi>
+               </l>
+               <l>
+                  <hi>She yeilds, yet he neglects the hour,</hi>
+               </l>
+               <l>
+                  <hi>Which makes</hi> Roſina <hi>looke full ſoure.</hi>
+               </l>
+               <l>
+                  <hi>A Poſſet, ſhe prepares, with coſt,</hi>
+               </l>
+               <l>
+                  <hi>To cauſe the young Man doe his moſt:</hi>
+               </l>
+               <l>
+                  <hi>And 'twixt the Sheets, with longing eyes,</hi>
+               </l>
+               <l>
+                  <hi>She awaking waites a prize.</hi>
+               </l>
+               <l>
+                  <hi>By chance a Bearward, with his Beaſts,</hi>
+               </l>
+               <l>
+                  <hi>Near to</hi> Roſina's <hi>lodging reſts;</hi>
+               </l>
+               <l>
+                  <hi>One of which Cattell, making roome,</hi>
+               </l>
+               <l>
+                  <hi>Doth to</hi> Roſina's <hi>Chamber come;</hi>
+               </l>
+               <l>
+                  <hi>Torments the Damſell with ſtrange fears,</hi>
+               </l>
+               <l>
+                  <hi>And puls an old houſe o're his eares.</hi>
+               </l>
+               <l>Balbulo <hi>by his promiſe bound,</hi>
+               </l>
+               <l>
+                  <hi>Viſits his Miſtreſſe in a ſwound;</hi>
+               </l>
+               <l>
+                  <hi>And thinking that he near her drawes,</hi>
+               </l>
+               <l>
+                  <hi>Feeles a rough Hide, and ſharpned Clawes;</hi>
+               </l>
+               <l>
+                  <hi>Retires amaz'd, and hides his Head,</hi>
+               </l>
+               <l>
+                  <hi>His Vitalls much endangered.</hi>
+               </l>
+            </lg>
+            <p>THere lived (not many years ſince) in the <hi>North</hi> part of <hi>England</hi> a young Farmer named <hi>Balbulo,</hi> who became extreamly Ena<g ref="char:EOLhyphen"/>moured on a Damſell (his next neighbour)
+<pb n="3" facs="tcp:169863:2"/>called <hi>Roſina,</hi> at laſt he obtained his deſires to Marry her; but before the time appointed, they had agreed to be anticipatious in the bu<g ref="char:EOLhyphen"/>ſines, and too too forward in yeilding one a<g ref="char:EOLhyphen"/>nothers benevolences before they were due: For the effecting whereof, time and place were appointed, <hi>Roſina</hi> was the firſt Cham<g ref="char:EOLhyphen"/>pion that appeared in the field, <hi>Balbulo</hi> met with ſome good Fellowes by the way that fore-ſlow'd his march, and retarded his ap<g ref="char:EOLhyphen"/>pearance to the Court of <hi>Venus.</hi>
+            </p>
+            <p>Yet for all that <hi>Balbulo</hi> would approve himſelf mindfull of his promiſe; and though he were obſtructed (by an unlook'd-for acci<g ref="char:EOLhyphen"/>dent) from proſtrating his perſon, to the di<g ref="char:EOLhyphen"/>ſpoſure of his pliant Para-nymph: yet to ſig<g ref="char:EOLhyphen"/>nifie his reality, and that his Miſtreſſe aſpect (with ſorrow for his procraſtination) might not be muffled (at his approach) in ſullen miſts of dolour, though he had ever hated (hi<g ref="char:EOLhyphen"/>therto) to pick out his own brains with his Pen, he took pen, ink, and paper, and thus ele<g ref="char:EOLhyphen"/>gantly exerciz'd his Genius.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <l>
+                     <hi>Prithee ſweeting be content,</hi>
+                  </l>
+                  <l>
+                     <hi>And accept this Complement</hi>
+                  </l>
+                  <l>
+                     <hi>In my ſtead, untill I come</hi>
+                  </l>
+                  <l>
+                     <hi>In perſon for to clap thy Bum:</hi>
+                  </l>
+                  <l>
+                     <hi>Know a crew of Bonny Blades,</hi>
+                  </l>
+                  <l>
+                     <hi>None of the meaner, courſer ſwades,</hi>
+                  </l>
+                  <l>
+                     <hi>But</hi> Tom <hi>the Shepheard,</hi> Will <hi>the Ditcher,</hi>
+                  </l>
+                  <l>
+                     <hi>And</hi> Ralph <hi>that loves to beat the Pitcher;</hi>
+                  </l>
+                  <pb n="4" facs="tcp:169863:3"/>
+                  <l>Dick <hi>the Thraſher,</hi> Hal <hi>the Weaver,</hi>
+                  </l>
+                  <l>Ned <hi>the Neatherd,</hi> Nic <hi>the cleaver</hi>
+                  </l>
+                  <l>
+                     <hi>Of luſty Loggs, have bem'd me in</hi>
+                  </l>
+                  <l>
+                     <hi>At Mother</hi> Red-caps, <hi>with the Chin</hi>
+                  </l>
+                  <l>
+                     <hi>So hung with Hair: We ſing and drink,</hi>
+                  </l>
+                  <l>
+                     <hi>Laugh, and quaffe, and club our Chink,</hi>
+                  </l>
+                  <l>
+                     <hi>That the Houſe ſeemes to run round,</hi>
+                  </l>
+                  <l>
+                     <hi>Sure the place is Faiery ground.</hi>
+                  </l>
+                  <l>
+                     <hi>Be aſſur'd I ſhall endeavour,</hi>
+                  </l>
+                  <l>
+                     <hi>Soone as I can, my ſelfe to ſever</hi>
+                  </l>
+                  <l>
+                     <hi>From my Companions, faire and free,</hi>
+                  </l>
+                  <l>
+                     <hi>To toy, and ſport, and play with thee.</hi>
+                  </l>
+                  <closer>
+                     <salute>Sweet morſell of Maids-fleſh,</salute>
+                     <signed>thy moſt damnably devoted Servant, <hi>Balbulo.</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>
+               <hi>After he had finiſhed this elaborate Epiſtle, he called for Starch, and after the beſt manner cementing both ends of the folded paper, he ſuperſcribed it thus:</hi>
+            </p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>To the moſt voracious Virgin my very loving Landabrides</salute>
+                  </opener>
+                  <p>theſe preſent.</p>
+               </body>
+            </floatingText>
+            <p>Having brought to period this Important buſineſſe, he ſpeedily diſpatched an Emiſſarie, with charge to diliver his Epiſtle to none ſave his deare <hi>Roſina,</hi> who poore ſoule (having given him over for a loſt man, her Hoſteſſe be<g ref="char:EOLhyphen"/>ing of the ſame faith) were once reſolved to wait his leiſure no longer, but <hi>Roſina</hi> (ſome<g ref="char:EOLhyphen"/>thing more confident of his performance then the other) was willing to ſpin out a little more time, and buſies her ſelfe in making a Sack-poſſet againſt his comming, the Poſſet
+<pb n="5" facs="tcp:169863:3"/>being made, but no <hi>Balbulo,</hi> patience was quite worne out, when, as good luck would have it, in comes mother Red-caps Son, with a letter in his hand from <hi>Balbulo,</hi> as welcome (God knowes) to the red cheek'd <hi>Roſina,</hi> as a ſhower of Raine to a parch'd Dunghill; Oh quoth <hi>Roſina,</hi> I little thought <hi>Balbulo</hi> would have ſerv'd me thus, I am like to have great good of him when we are Married, that failes in the performance of his firſt promiſe; Ah <hi>Balbulo, Balbulo,</hi> didſt thou know the ar<g ref="char:EOLhyphen"/>dour of my longing deſires, thou wouldſt rob <hi>Cupid</hi> of his wings and flie into my Armes, with a ſtrict charge to conjure <hi>Balbulo,</hi> by all that was, is, and like to come: the meſſenger returns to <hi>Balbulo,</hi> whom he found in the very ſame poſture he left him, Bowſing, and Bray<g ref="char:EOLhyphen"/>ing, with the reſt, to whom approaching, he craved his eare in private, who fetching a deep ſigh from the very bottome of his belly (a ſigh God knowes, ſo hot, and Sulpherous that it had endangered his Beard, had not his nu<g ref="char:EOLhyphen"/>merous teares opportunely drop'd, and al<g ref="char:EOLhyphen"/>layed the fervour thereof) taxing his dull de<g ref="char:EOLhyphen"/>lay, and reſolving ſpeedily to breake up Schoole, and haſt to his beloved, he returned to his companions.</p>
+            <p>And now alſo, let us returne to forlorne and penſive <hi>Roſina,</hi> who having quite tyred out her patience, and being no longer able to
+<pb n="6" facs="tcp:169863:4"/>containe her ſelfe, tooke the Sack-poſſet and ſet it upon the Cubberds head, covering it with a Trencher, and a napkin, placing a can<g ref="char:EOLhyphen"/>dle by it, tooke leave of her Hoſteſſe, and prepares for bedward, putting the door only too, for feare her Sweet-heart ſhould finde any difficulty in his approach, if (as he was like) he ſhould happen to come late, or ſhe diſturb'd to let him in, if it ſhould be locked, or bolted; late brought all to bed, that were in the houſe.</p>
+            <p>Now you muſt underſtand, that in the even<g ref="char:EOLhyphen"/>ing before this hapned, that a Bearward had brought three luſty Bears, to town and had ta<g ref="char:EOLhyphen"/>ken up quarters for them in the ſame Inne, lodging them in a little Stable that hapned to be juſt underneath the Chamber where <hi>Bal<g ref="char:EOLhyphen"/>bulo</hi> and <hi>Roſina</hi> had intended to be very Su<g ref="char:EOLhyphen"/>perlative, in the degrees of happineſſe. But it hapned that <hi>Roſina</hi> was no ſooner got into her bed, but one of the great Bears, ſenting the ſtreame of the Poſſet, broke looſe, and hapned to pull downe a whole pane of the wall, that opened at the foote of the Staire caſe, that led up to <hi>Roſina</hi>'s lodgings, up Staires climbs the Beare, <hi>Roſina</hi> hearing ſome body comming up, was in good hope it had been her Sweet<g ref="char:EOLhyphen"/>heart, though ſhe thought the party came up, ſomewhat heavily, and trod (though not more gently, yet) more ſoftly then <hi>Roſina</hi> was wont
+<pb n="7" facs="tcp:169863:4"/>to doe, which ſhe conjectured to be, becauſe (it may be) he was in the darke, and had no body to light him up the Staires, and it would be otherwiſe ſo ſoone as he ſhould come into the light, <hi>[enter Beare] Roſina</hi> (perceiving ſo ugly a creature comming in, upon all foure, winding with his noſe, and twinkling with his eyes) ſhe ſinkes down in her bed, and falls a praying, but durſt not cry out for feare ſhe ſhould give the devouring creature notice of her being there: but tears, which had ſo little way to fall, and fall ſo ſoftly, and trembling, that could make no noiſe upon a bed of downe, ſhe makes uſe of ſufficiently, to ex<g ref="char:EOLhyphen"/>preſſe the wofulneſſe of her condition, and the greatneſſe of her feare which was preſently augmented, and multiplied upon her like num<g ref="char:EOLhyphen"/>bers, in Arithmetick, for the Beare (ſenting the Poſſet) riſes up an end, and with his fore<g ref="char:EOLhyphen"/>pawes, reſts upon the Cubberd, and nuzzells the Trencher that covered the Poſſet off the Goblet, and thruſting his ſnout into the hot-kept licquour, he ſo burnt his noſe, that he made a moſt fearfull noiſe, and endeavouring to leap downe, his nailes ſo ſtuck in the Cub<g ref="char:EOLhyphen"/>berd-cloth, that downe comes the Sack-poſſet about his eares, the Candle into his eyes, which the melted tallow (together with the hot liquour) ſo got into, and made them ſo ſmart that it cauſed him to Roare, as if all the De<g ref="char:EOLhyphen"/>vills
+<pb n="8" facs="tcp:169863:5"/>in hell had been in the roome: all this while the Beares clawes were not diſ-engaged from the Cubberd-cloath, nor the cloath from what it covered, ſo that at laſt (with the Bears ſtriving) downe comes the great canopied Cubberd, and all upon the Beare, ſo that the Beare began to be worſe afraid, and more hurt, then terrified <hi>Roſina,</hi> who labouring to diſcharge himſelfe of the weight that was up<g ref="char:EOLhyphen"/>on him, (the Candle all this while lying upon the ground ſtill blazing) the Beare (at laſt) intch'd, and intch'd, ſo neare unto the flame, that it ſet all the haire upon the Beares back on fire, whereat the Beare ſet out a wider throat, then all the baitings that ever he had could force him to; <hi>Roſina</hi> (hearing a great deale of noiſe beſides what the Beare made, and received no hurt as yet) thought that ſome body had come in unto her reſcue, and was ordering the Beare, and that the Beare Roar'd by reaſon of ſome correction, where<g ref="char:EOLhyphen"/>fore ſhe took the boldneſſe, to peepe out of the bed, to ſee whether it were ſo or not, but when ſhe perceived a thing all on fire, and another thing over it, ſtirring up and downe the roome, ſhe began to be afraid of the De<g ref="char:EOLhyphen"/>vill, worſe then of the Beare, wherefore ſhe flings the cloathes over her head againe, and falls to making vowes, that if ever ſhe were delivered from that juſt Judgement that was
+<pb n="9" facs="tcp:169863:5"/>upon her for that unlawfull aſſembly, ſhe would never violate the old Lawes and Cu<g ref="char:EOLhyphen"/>ſtomes of her devout Aunceſtors, by ſuch deeds of Anticipation; whereupon the Beare (diſ-ingag'd of his toyle) left Roaring, the Candle, and the Haire went out, all was quiet, the Beare fell to licking up his Poſſet, all about the roome, (to which the Beare had not been accuſtomed) that his brains were intoxicated, (who wanting a place, to repoſe his giddy braine) Skip-frogs up upon the bed, and layes him downe halfe on, and halfe off the miſe<g ref="char:EOLhyphen"/>rable <hi>Roſina:</hi> the Bearward hearing the noiſe, was riſing out of his bed, to know the cauſe of their unrulineſſe, but perceiving them to be quiet, went to bed againe.</p>
+            <p>By this time <hi>Balbulo</hi> had parted with his merry Mates, and comes (more drunk then ſober) to the dore, the outward dore of the houſe) the Hoſteſſe asketh who's there? <hi>Bal<g ref="char:EOLhyphen"/>bulo</hi> cries, tis I: who are you ſaid the Hoſteſſe? tis I <hi>Balbulo,</hi> don't you know my voice? you know my buſineſſe well enough: tis you (ſaid the Hoſteſſe) is this a time a night? well I come, ſhe ſlips an old Petticoate over her ſhoulders and comes to the dore and lets him in, telling him, that he was a fine man indeed to have a Sweet-heart, if ſhe were as ſhe, ſhe would make him ſtay the good houre, and if there were a yeare to the end on't.</p>
+            <pb n="10" facs="tcp:169863:6"/>
+            <p>Well ſaid <hi>Balbulo,</hi> get you to bed, trouble not your ſelfe, where is ſhe? is ſhe in the Chamber I beſpoke? I, I, ſaid the Hoſteſſe, can you find the way in the dark? there is a light in the Chamber, and a Sack-poſſet, pro<g ref="char:EOLhyphen"/>vided for you, you are a ſweet youth, y-faith, y-faith ſhee is too good for you, goodnight, goodnight old woman, (ſaid <hi>Balbulo</hi>) too good for me, who is to good for me? up the Staires comes <hi>Balbulo,</hi> and finds the dore open, but ſeeing no light in the Chamber, he asks her, what are you? in darkneſſe? he had not advanced three ſteps into the roome, but what with the ſlipperineſſe of the boords, by reaſon of the Sack poſſet, and the licking of the Beares tongue, down comes <hi>Balbulo</hi> all along, up he gets upon his legs, but had not made one ſtep nearer the bed, but over the Cubberd comes poore <hi>Balbulo,</hi> hurts his hands, and breaks his elbowes, lies ſtill a while and askes, where am I? what have we here? what's here to doe?</p>
+            <p>
+               <hi>Roſina</hi> heard a mans voice, but was afraid there had been another Beare, at laſt he gets up, and reſolves to order his ſteps more wati<g ref="char:EOLhyphen"/>ly, and laying hold upon one of the Beds poſts, he thought himſelfe ſafe enough, and that he had her ſure, when behold opening his Armes to imbrace his beloved, and his mouth to be<g ref="char:EOLhyphen"/>ſtow this pleaſing language upon; Ah my
+<pb n="11" facs="tcp:169863:6"/>ſweet heart, I hope thou wilt not be angry with me, for ſtaying ſo long, in troth I could not help it, and therewith falling downe up<g ref="char:EOLhyphen"/>on the bed, to take his miſtreſſe in his Armes, he imbraced the Beare, who having awaked with his kindneſſe, Roar'd him forth ſuch a curtaine lecture, as I thinke never any ſuch Delinquent was ſo miſerably ſerv'd before, <hi>Balbulo</hi> recoiles, forſaking his ſtation with ſuch violence as Rocks and Stones doe uſe to make, when they are removed out of their places; when Hell finds out a new mouth, by ſome eruption of the earth, ſo that (forgetting his ſtumbling block which lay in his way) he breakes his Shins againſt the Cubberd, and over and over he tumbles, being moſt miſera<g ref="char:EOLhyphen"/>bly tormented, in which agony (knowing not what he did) miſtaking his way in the darke, at the bottome of the Staires inſtead of going out at the dore, he runs into the broken place in the wall, that the Beare had made, and ſo ſtumbles upon the other two, [Ba-a] cries one of the Bears, [Ba-a] cries the other too, <hi>Balbulo</hi> imagining no leſſe, but that flying from one, he had fallen into Hell, amongſt all the Devills, Scrambles (he knew not how) from between them, and ſo got looſe from both, and recovers his feet, but durſt not make any other uſe of them then ſtanding up<g ref="char:EOLhyphen"/>on them, ſo unfortunate had his motion been
+<pb n="12" facs="tcp:169863:7"/>unto him of late, that ſtill he ran into further miſchief, till at laſt this Beares unrulineſſe, made him venture farther off the danger, ſo that he got cloſe to the Manger, then he knew where he was, up he gets into it, and for his greater ſecurity ſake climbs up into the rack, the Beare-ward (hearing a ſecond Alarum) riſeth out of his bed, and came to ſee what was the matter, where he ſpied one of his Beares miſſing, and the wall broke downe, where ſhe had got out, preſently he raiſes the Houſe, ſaying, he was undone, one of his Beares was broken looſe and got away, up they all riſe, unchaine the Doggs, ſearch for the Beare, enter the Stable, ſee where the Beare broke out, which while they were view<g ref="char:EOLhyphen"/>ing, they could heare a voice from the Rack ſide, ſaying, doe you heare, doe you heare, I know where your Bear is, with a pox to you, they looked up, and ſpied <hi>Balbulo</hi> amongſt the Rack ſtaves; they asked him, where, where I pray now? where? (ſaies <hi>Balbulo</hi>) I know where well enough, but looke that your Beares be ſafe, and I'le come downe and ſhew you: they ſecuring him from all danger, he deſcends from his Palliſadoes, and directs them up into his miſtreſſe Chamber, giving the Beare<g ref="char:EOLhyphen"/>ward, and the Doggs leave to goe before him, who find the Beare faſt aſleepe in <hi>Bal<g ref="char:EOLhyphen"/>bulo</hi> his place, ſo that with much convenience,
+<pb n="13" facs="tcp:169863:7"/>they got the ſtring into the ring, and pull'd the Bear from off the bed, <hi>Balbulo</hi> turning downe the bed to ſee what was become of his ſweet heart, there aſcended ſuch a wreake of Bak'd, and Boyl'd, and Stew'd, and Roaſt-meat, that his Stomack was quite turn'd, but eſpying his beloved you may Imagine what a dolefull congratulation there was betwixt them, but the reſult of all was, the Beareward deſcended with his Beaſts, <hi>Roſina</hi> aſcended, and what with the help of her Hoſteſſe, and the aſſiſtance of water, became ſweet againe; <hi>Balbulo</hi> having drunke hard the day before, and having beene ſo turmoiled the very night, lay'd him downe to reſt, and (as well as his broaken Elbowes, and ſore Shins, would give him leave) ſlept ſome houres.</p>
+            <p>
+               <hi>Roſina</hi> and her Hoſteſſe, by this time, had ſufficiently execrated the Malice of Fortune, together with the Beareward, his robuſtious Beaſt, <hi>Roſina</hi> condoling her owne diſappoint<g ref="char:EOLhyphen"/>ment, her Hoſteſſe deploring <hi>Balbulo's</hi> Infor<g ref="char:EOLhyphen"/>tunitie but at length, being weary with be<g ref="char:EOLhyphen"/>wailing, they reſolved to bemoane an helpe<g ref="char:EOLhyphen"/>leſſe Ill, but cleare up their dejected Spirits, with good meat and comfortable licquours, a Dinner therefore they reſolved to prepare againſt <hi>Balbulo</hi>'s Reſurection, and that no<g ref="char:EOLhyphen"/>thing might be wanting to expell Melan<g ref="char:EOLhyphen"/>cholly, and drive away ſullen thoughts, they
+<pb n="14" facs="tcp:169863:8"/>agreed with <hi>Godfrey</hi> a blind Harper, that he ſhould ſtrike his ſtrings all that day, till having received his ſupper, together with his hire, he might grope his way home.</p>
+            <p>By this time <hi>Balbulo</hi> awakes, comes downe (what with his exceſſive tipling the day be<g ref="char:EOLhyphen"/>fore, and what with his nocturnall anxieties) looking more like a Ghoſt then <hi>Balbulo,</hi> to the ineffable ſorrow of <hi>Roſina,</hi> and the Ho<g ref="char:EOLhyphen"/>ſteſſe, who indeavoured to comfort him all they might. Be contented my dear <hi>Balbulo,</hi> (ſaid <hi>Roſina</hi>) our delights are but adjourn'd, not annihilated by the late unhappy diſaſter; pox on the Bearward, and his liquoriſh Beaſt, by whoſe meanes we were hindred of that ſweet ſollace we had otherwiſe enjoy'd; but my beloved <hi>Balbulo</hi> (ſaid ſhe) the approach<g ref="char:EOLhyphen"/>ing night ſhall make amends for all. I remem<g ref="char:EOLhyphen"/>ber what my old Mother was wont to ſay,
+<q>
+                  <lg>
+                     <l>
+                        <hi>Pleaſures delay'd</hi>
+                     </l>
+                     <l>
+                        <hi>When once attained,</hi>
+                     </l>
+                     <l>
+                        <hi>Are the ſweeter made.</hi>
+                     </l>
+                  </lg>
+               </q>
+            </p>
+            <p>Come ſweet <hi>Balbulo</hi> fall to, chear up thy afflicted ſpirits (<hi>Balbulo</hi> all this while ſate like the Devill in his Dumps) fie for ſhame (ſaid the Hoſtoſſe) ſhall a woman, who is the wea<g ref="char:EOLhyphen"/>ker Veſſell, exceed you in courage? She (poor ſoul) was almoſt raviſh'd by the ſavage Crea<g ref="char:EOLhyphen"/>ture, life and chaſtity at once endangered, and all for your ſake. Well, with much ado <hi>Balbulo</hi>
+               <pb n="15" facs="tcp:169863:8"/>was allured to eat, and by degrees to drink; and (after that) with ſlender arguments, to Mirth, the Harper all this while making mello<g ref="char:EOLhyphen"/>die, equall to the wheeles of ſome empty Cart, hurried upon the ſtones; after a pleni<g ref="char:EOLhyphen"/>tude of Meat, Wine, and Mirth, <hi>Godfrey</hi> de<g ref="char:EOLhyphen"/>parted home, and <hi>Balbulo</hi> and <hi>Roſina</hi> (maugre their late infortunity) to their Chamber, hand in hand, their Hoſteſſe bleſſing them all the way.</p>
+            <p>But alas, poor <hi>Balbulo,</hi> and loving <hi>Roſina</hi> were ever two Inamorates; ſo thwarted in the fruition of each others Love; they had ſcarce proved one another of a different ſex, but behold loud rapping at the doore, and ra<g ref="char:EOLhyphen"/>ving for entrance, the Hoſteſſe having taken a luſty cup the day before for joy, (to uſe her own words) that ſince things were no better, they were no worſe; ſlept as ſupinely as a drunken Dutchman, or a Watchman, at four of the clock in the morning, with much adoe was awaked; and between fear and diſpair, at laſt opened the doore for the Conſtable, his Painted Staffe, and his drove of Watchmen to enter in.</p>
+            <p>Now you muſt underſtand, that not many houres before, a notable Robbery was com<g ref="char:EOLhyphen"/>mitted in the Towne; and a Gentleman ha<g ref="char:EOLhyphen"/>ving loſt to the value of 3000<abbr>l.</abbr> wherefore the Conſtable being deſired to uſe his Au<g ref="char:EOLhyphen"/>thority
+<pb n="16" facs="tcp:169863:9"/>for the detecting, and apprehending of the Theives if he could catch them; thought no place more likely to abſcond ſuch kind of fellowes then Innes, and Alehouſes; and having alarumed many, he at length came hither, and preſently ſearcheth roome by roome for the Theives.</p>
+            <p>
+               <hi>Balbulo</hi> and <hi>Roſina</hi> hearing a Tumult in the houſe, became almoſt out of their wits, and could willingly have thought the Bear was again entring on the Stage to Act the ſecond part of his laſt nights Tragy-Comedy, ſave that they heard the voices of Men, and not the grumbling of Beares; they knew alſo that the doore was lock'd, neither was there any Inviting Poſſet on the Cubberds head: Well, they lay trembling a long time, and blamed the blame-worthy Deſtinies for ſo conſtant a perſeverance in the fruſtrating of their de<g ref="char:EOLhyphen"/>ſignes. Oh! quoth <hi>Roſina,</hi> I perceive now that bad ac<g ref="char:EOLhyphen"/>cidents wait on bad actions By this they might hear the tumult draw near them, <hi>Oh,</hi> quoth <hi>Balbulo, we are undone! riſe, riſe, good love for Heavens ſake, we ſhall be both carried to Priſon; Hark, hark, the Officers are even at hand to ceiſe upon us.</hi> Unfortunate <hi>Rofina,</hi> of two evills, being deſirous to chuſe the leaſt, quickly hung on her Gar<g ref="char:EOLhyphen"/>ments very Geometrically, and with her beloved, took her journey out at a Window opening into a Garden, eſcaping not without great danger of their lives, the de<g ref="char:EOLhyphen"/>ſcent was ſo high: being down, they both concluded to wait the leaſure, when unlawfulneſſe ſhould be leſſe attended, with ſo heavy Judgements: What became of them afterwards, <hi>Turpin,</hi> my Author, doth not relate; but certainly the Protean Goddeſſe never excerciſed her power more Tyrannically o're two Lovers, than o're <hi>Balbulo</hi> and <hi>Rofina;</hi> for never was a ſtory of more woe but that of <hi>Juliet</hi> and <hi>Romeo.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
